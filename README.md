@@ -7,6 +7,12 @@ Designed and built by **Iftikhar Ahmed** with Claude Code (2026) · **Version 2*
 > This is a showcase. The source code is private. A live demo or code walkthrough is available on request.
 
 <p align="center">
+
+  
+
+https://github.com/user-attachments/assets/62c0759b-0a68-434c-9f1b-b461871f7a74
+
+
   <a href="images/demo.mp4"><img src="images/demo-video.png" alt="Watch the demo video" width="900"></a><br>
   <em>▶ <a href="images/demo.mp4"><b>Watch the demo video</b></a> (1 min 49 s, MP4) — a real recording of the program: live typing, answers with sources, Copy and PDF, a follow-up, a picture from the documents, "not in the documents", feedback, light and dark, and the owner's pages. Made-up company "Lumora Home Appliances".</em>
 </p>
